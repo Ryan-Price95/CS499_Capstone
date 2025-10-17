@@ -1,3 +1,6 @@
+# Ryan Price
+## CS-499 Capstone 
+
 ## Original Artifact
 For this entire project, I decided to use just a single artifact to enhance in the three expected ways, a software development, algorithms, and databases. The artifact that I chose to enhance was from CS 360 where we were tasked with building an Android application that would allow users to log in, access information about the existing inventory, as well as update, add, and remove any inventory from the system. This was built using Android Studio with Java utilizing a SQLite database. 
 
